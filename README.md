@@ -19,6 +19,6 @@
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my projects.</p>
 
-<p align="center">`Coming soon`</p>
+<p align="center">**Coming soon**</p>
 
 <h2 align="center">🌱 My Skills</h2>
