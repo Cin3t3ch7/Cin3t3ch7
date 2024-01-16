@@ -17,12 +17,8 @@
 </p>
 
 <h2 align="center">🚀 Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
-  
-#| <a href="https://github.com/Cin3t3ch7/Cin3t3ch7.github.io" #target="_blank">**Cin3t3ch7.github.io**</a> | <a 
-#| :---: | :---: | :---: | :---: |
-#<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?#raw=true' width="100px"  height='100px'> | <img align='center' width="100px" #src='https://github.com/sammwyy/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'> # | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" #height='100px'> | <img align='center' #src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" #height='100px'> |
-#| <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/samwmyy/lure" #target="_blank">`Repository`</a> | 
-<br/>
+<p align="center">Take a look at my projects.</p>
+
+<p align="center">`Coming soon`</p>
 
 <h2 align="center">🌱 My Skills</h2>
