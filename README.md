@@ -1,7 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
 
-<!--
-**Cin3t3ch7/Cin3t3ch7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Cin3t3ch7&color=blueviolet"/> 
+</p>
 
 Here are some ideas to get you started:
 
