@@ -7,7 +7,7 @@
 - 😄 `My name is`: **Cinetech**
 - ⚡ `I'm`: **18 years old**
 - 🌱 `I'm currently learning`: **Cybersecurity and programming**
-- 💬 `Funny fact`: **I like to watch or read manhwa**
+- 💬 `Funny fact`: **I like to watch or read**
 
 <h2 align="center">☕ Statistics</h2>
 
